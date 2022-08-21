@@ -1,0 +1,27 @@
+body {
+  background-color: #c78b47;
+  height: 2000px;
+  background-image: url(foto3.png);
+  background-position: top center;
+  background-repeat: repeat-y;
+  background-size: 1330px;
+}
+
+.foto1 {
+  width: auto;
+  height: 350px;
+  left: 24%;
+  object-position: 50%;
+  position: relative;
+}
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 300px;
+  height: auto;
+  margin: auto;
+  color: rgb(44, 33, 20);
+  font-size: 400%;
+  z-index: 999999999999999999;
+  position: relative;
+}
